@@ -21,7 +21,7 @@ SELECT * FROM `degrees` WHERE `name` LIKE '%Magistrale%';
 SELECT COUNT(id) AS 'dipartimenti_totali' FROM `departments`;
 
 -- 8. Quanti sono gli insegnanti che non hanno un numero di telefono? (50)
-
+SELECT `name`, `surname`, `phone` FROM `teachers` WHERE `phone` IS NULL;
 
 
 -- ? ESERCIZIO 2
