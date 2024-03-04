@@ -27,3 +27,12 @@ Cosa  e come consegnare?
 Dopo aver testato le vostre query con phpMyAdmin, riportatele in un file .sql e caricatelo nella vostra repo.  
 Sarebbe consigliabile effettuare un push ad ogni query completata.
 
+<hr>
+
+### Esercizio 3
+Esercizio di oggi: **DB University - Join**  
+nome repo: `db-university`
+
+Eseguite le query del file allegato sullo stesso database della volta scorsa.
+
+Le modalità di consegna sono le stesse di Venerdì! Buon divertimento! 
